@@ -18,7 +18,6 @@ This repository contains the figure data, eight plotting scripts and selected ke
 | code/summarize_overlap.py, export_current_tables.py | Existing coverage sensitivity and current-table exports |
 | code/upstream/ | Selected matching, early-cycle selection and cell-overlap source methods |
 | docs/ | Data dictionary, reproduction guide and paper-to-data map |
-| figures/reference/Figure1.png | Static study-domain reference image |
 
 ## Reuse and citation
 
