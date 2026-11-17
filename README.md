@@ -1,6 +1,6 @@
 # UA–PA spring-onset contrasts
 
-Author: **Liangxianfan Fan**. Local package: `slim-v03` (16 November 2026).
+Author: **Liangxianfan Fan**. Local package: `v01` (16 November 2026).
 
 Companion to *Spring-onset contrasts vary widely among matched pairs from urban and protected-area sampling domains despite a small overall mean*.
 
