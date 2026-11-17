@@ -1,6 +1,6 @@
 # UA–PA spring-onset contrasts
 
-Author: **Liangxianfan Fan**. Local package: `v01` (16 November 2026).
+Author: **(double-anonymized peer review)**. Local package: `v01` (16 November 2026).
 
 Companion to *Spring-onset contrasts vary widely among matched pairs from urban and protected-area sampling domains despite a small overall mean*.
 
@@ -21,4 +21,4 @@ This repository contains the figure data, eight plotting scripts and selected ke
 
 ## Reuse and citation
 
-Author-written code: [MIT](LICENSE). Author-generated derived data: [CC BY 4.0](DATA_LICENSE.md). Mixed-source columns and third-party map material retain the terms in THIRD_PARTY_NOTICES.md. Source polygons/domain-display rasters are external inputs. See CITATION.cff for the software author and version. Repository: https://github.com/Fanliangxian/ua-pa-spring-phenology. Archive content version: slim-v03. A tagged release has not yet been created.
+Author-written code: [MIT](LICENSE). Author-generated derived data: [CC BY 4.0](DATA_LICENSE.md). Mixed-source columns and third-party map material retain the terms in THIRD_PARTY_NOTICES.md. Source polygons/domain-display rasters are external inputs. See CITATION.cff for the software author and version. Repository: (double-anonymized peer review). Archive content version: v01. A tagged release has not yet been created.
