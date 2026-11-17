@@ -4,7 +4,7 @@ Author: **Liangxianfan Fan**. Local package: `v01` (16 November 2026).
 
 Companion to *Spring-onset contrasts vary widely among matched pairs from urban and protected-area sampling domains despite a small overall mean*.
 
-## Start here
+## Introduction
 
 This repository contains the figure data, eight plotting scripts and selected key processing methods for the fixed 18,862-pair study. Phenology is MCD12Q2 Collection 6.1 Greenup, 2003–2024, 23.44°N ≤ latitude <66.56°N. Contrasts are UA minus PA in days. The primary table and figure results are unchanged from the prior archive; this version reorganizes supporting material.
 
