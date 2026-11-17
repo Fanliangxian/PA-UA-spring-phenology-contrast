@@ -1,0 +1,87 @@
+{
+  "full": {
+    "n": 18862,
+    "mean": -0.9927183212185586,
+    "q05": -12.23755411255411,
+    "q25": -4.454545454545454,
+    "median": -0.7727272727272727,
+    "q75": 2.636363636363636,
+    "q95": 9.77255244755245
+  },
+  "early_complete": {
+    "n": 14180,
+    "mean": -1.06262341325811,
+    "q05": -11.2,
+    "q25": -4.4,
+    "median": -0.8,
+    "q75": 2.4,
+    "q95": 8.4
+  },
+  "recent_complete": {
+    "n": 14180,
+    "mean": -1.1853784673248706,
+    "q05": -11.833333333333334,
+    "q25": -4.666666666666667,
+    "median": -1.0,
+    "q75": 2.333333333333333,
+    "q95": 9.083333333333334
+  },
+  "recent_minus_early": {
+    "n": 14180,
+    "mean": -0.12275505406676067,
+    "q05": -5.966666666666667,
+    "q25": -1.9666666666666688,
+    "median": -0.09999999999999998,
+    "q75": 1.8166666666666667,
+    "q95": 5.616666666666667
+  },
+  "spearman_rho": 0.8105824285461856,
+  "pearson_r": 0.8331761086098662,
+  "same_nonzero_sign": 11423,
+  "opposite_nonzero_sign": 2540,
+  "at_least_one_exact_zero": 217,
+  "denominator": 14180,
+  "same_nonzero_sign_percent_all": 80.55712270803949,
+  "same_sign_percent_nonzero": 81.8090668194514,
+  "direction_and_tolerances": [
+    {
+      "category": "UA earlier",
+      "count": 10581,
+      "denominator": 18862,
+      "percent": 56.096914431131374
+    },
+    {
+      "category": "exact zero",
+      "count": 67,
+      "denominator": 18862,
+      "percent": 0.35521153642243664
+    },
+    {
+      "category": "UA later",
+      "count": 8214,
+      "denominator": 18862,
+      "percent": 43.54787403244619
+    },
+    {
+      "category": "absolute observed mean <= 3 days",
+      "count": 8259,
+      "denominator": 18862,
+      "percent": 43.78644894496872
+    },
+    {
+      "category": "absolute observed mean <= 5 days",
+      "count": 11925,
+      "denominator": 18862,
+      "percent": 63.222351818471
+    },
+    {
+      "category": "absolute observed mean <= 7 days",
+      "count": 14416,
+      "denominator": 18862,
+      "percent": 76.42879864277383
+    }
+  ],
+  "analysis_status": "post-review descriptive extension",
+  "interpretation": "Non-overlapping years, not independent replicates; no latent error decomposition, trend inference or ecological equivalence.",
+  "physical_grid_reuse": false
+}

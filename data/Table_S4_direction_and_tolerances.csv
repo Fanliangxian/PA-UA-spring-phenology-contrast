@@ -1,0 +1,7 @@
+category,count,denominator,percent
+UA earlier,10581,18862,56.096914431131374
+exact zero,67,18862,0.35521153642243664
+UA later,8214,18862,43.54787403244619
+absolute observed mean <= 3 days,8259,18862,43.78644894496872
+absolute observed mean <= 5 days,11925,18862,63.222351818471
+absolute observed mean <= 7 days,14416,18862,76.42879864277383

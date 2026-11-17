@@ -1,0 +1,18 @@
+Metric,Full roster,Coverage ≥25%,Coverage ≥50%
+Matched pairs,"18,862","12,468","9,990"
+Supported pair-years,"403,981","267,110","214,205"
+Complete-record pairs,"14,180","9,301","7,478"
+Original roster retained (%),100.00,66.10,52.96
+Mean UA minus PA (days),−0.99,−1.08,−1.14
+Interquartile range (days),−4.45 to 2.64,−4.64 to 2.68,−4.73 to 2.68
+UA earlier (%),56.10,56.38,56.77
+UA later (%),43.55,43.30,42.87
+Exact zero (%),0.36,0.32,0.36
+Cross-period Spearman ρ,0.811,0.811,0.811
+Same nonzero direction (%),80.56,80.57,80.85
+Opposite nonzero directions (%),17.91,17.93,17.72
+Nearctic (%),59.81,58.55,58.69
+Palearctic (%),40.15,41.42,41.27
+Unclassified realm (%),0.04,0.03,0.04
+Tier 1 (%),31.26,29.52,28.28
+Tier 2 (%),68.74,70.48,71.72

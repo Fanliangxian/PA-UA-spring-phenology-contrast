@@ -1,0 +1,5 @@
+Comparison B minus A,Shared pairs,Mean change,Median change,25th–75th,5th–95th
+Strict minus main filter,"18,857",−0.02,0.00,0.00 to 0.00,−1.02 to 0.87
+"Recent minus full window, all pairs","18,862",−0.01,−0.03,−0.99 to 0.96,−3.27 to 3.28
+"Recent minus full window, complete-record cohort","14,180",−0.06,−0.05,−0.89 to 0.83,−2.71 to 2.55
+"Recent (2013–2024) minus early (2003–2012), complete-record cohort","14,180",−0.12,−0.10,−1.97 to 1.82,−5.97 to 5.62

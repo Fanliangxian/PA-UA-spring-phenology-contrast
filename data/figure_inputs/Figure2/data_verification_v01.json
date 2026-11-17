@@ -1,0 +1,23 @@
+{
+  "status": "PASS_PAIRWISE_MAP_SOURCE_RECONCILIATION",
+  "sources_unchanged": true,
+  "all_keys_unique_and_complete": true,
+  "frozen_pair_join_one_to_one": true,
+  "summary": {
+    "pairs": 18862,
+    "pair_years": 403981,
+    "mean": -0.9927183212185586,
+    "q05": -12.237554112554111,
+    "q25": -4.454545454545454,
+    "median": -0.7727272727272727,
+    "q75": 2.6363636363636362,
+    "q95": 9.772552447552451,
+    "min": -55.285714285714285,
+    "max": 49.40909090909091
+  },
+  "output": {
+    "path": "Figure2_pairwise_mean_source_v01.csv",
+    "sha256": "2ee401c72d052b6af52808f8bbab8c3abcab5725b72361977447cf68705ab1ef"
+  },
+  "metadata_role": "Archived input verification; source paths normalized for the public copy."
+}

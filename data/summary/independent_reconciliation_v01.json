@@ -1,0 +1,17 @@
+{
+  "status": "INDEPENDENT_SQL_AND_RATIONAL_RECONCILIATION_PASS",
+  "endpoint_rows": 829928,
+  "main_pair_years": 403981,
+  "strict_pair_years": 382773,
+  "groups_checked": 8,
+  "contrasts_checked": 4,
+  "annual_profiles_checked": 66,
+  "maximum_absolute_difference": 5.329070518200751e-15,
+  "zero_strict_support_pairs": 5,
+  "zero_recent_support_pairs": 0,
+  "QA_common_keys_use_identical_released_dates": true,
+  "not_independent_measurement_validation": true,
+  "random_execution": false,
+  "new_fits": 0,
+  "elapsed_seconds": 17.406000000002678
+}
